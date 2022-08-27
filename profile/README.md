@@ -1,12 +1,12 @@
-## Welcome to the team 🙌
+## Sejá Bem Vindo ao Time 🙌
 
-<!--
+**Aqui está alguns Pontos da Equipe:**
 
-**Here are some ideas to get you started:**
 
-🙋‍♀️ A short introduction - what is your organization all about?
-👀 Contribution guidelines - how do team members dive in?
-👩‍💻 Useful resources - where do you keep your docs? Is there anything else the team should know?
-🍪 Fun facts - what is your team's favorite snack?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+👀 Codigo Open-Source para Estudos/Aprimorações
+
+👩‍💻 Todos os Codigos Precisa ser Revisado por **KaweMaximo** ou **EduardoFochetto**
+
+🍪 Um Ambiente Amigavel e bem Descontraido :P
+
+🧙 Nosso Site do Projeto: [MaxG2](https://maxg2.com)
