@@ -1,2 +1,1 @@
-# .github-private
-README
+🌟 Repositório do Nosso README.md na Tela Inicial
